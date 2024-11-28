@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <div id="header" align="center">
-    <img src="https://github.com/youcefB95/youcefB95/blob/main/astronaut.png" width="100%" />
+    <img src="https://github.com/youcefB95/youcefB95/blob/main/astronaut.png" width="50%" />
   </div>
   <br>
   <div id="badges">
