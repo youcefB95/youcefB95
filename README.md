@@ -1,19 +1,88 @@
-# 💫 About Me: I'm Youcef
+# 👋 Hi, I'm Youcef!
 
-This quote encapsulates the reason and passion that has driven my journey to dive deep into the data and AI world. Having a background in applied mathematics, I am currently enrolled in a data science and engineering master's degree.<br><br>My enthusiasm lies in bridging the gap between complex data and practical applications that positively impact people's lives. As a data engineer, my goal is to create the foundations that support innovative data solutions, empowering organizations to harness the full potential of their data. I'm driven to streamline data workflows, ensure data quality, and make data accessible for insightful analysis.<br><br>My expertise spans Python, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines with technologies like Airflow, Spark, dbt and cloud platforms like GCP, AWS, and Azure. I'm also experienced with some web frameworks and libraries such as Flask, RESTful APIs, and Streamlit.
+<div id="header" align="center">
+   <div id="header" align="center">
+    <img src="https://github.com/Hamagistral/Ecom-FrontProject/assets/66017329/f067decf-db77-4185-aa03-3424e234c440" width="100%" />
+  </div>
+  <br>
+  <div id="badges">
+    <a href="https://hamagistral.me/">
+      <img src="https://img.shields.io/badge/portfolio-4366f0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://medium.com/@hamza.lbelghiti">
+      <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/youcef-belhadri/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+    </a>
+  </div>
+
+  <br>
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=youcefB95&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=youcefB95&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=youcefB95&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🚀 **Data Engineer | Cloud Enthusiast | Problem Solver**  
+🔎 Passionate about building scalable data pipelines, unlocking the value of data, and leveraging the power of the cloud for advanced analytics.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=youcefB95&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ **Tech Stack & Expertise**
+### Programming Languages  
+- **Python**: Data wrangling, ETL pipelines, data analysis (pandas, PySpark, etc.)  
+- **SQL**: Advanced queries, performance tuning, and working with relational & NoSQL databases  
+
+### Data Engineering Tools  
+- **Big Data Frameworks**: Apache Spark, Hadoop (HDFS, Hive, MapReduce)  
+- **ETL Pipelines**: Building end-to-end workflows for structured and unstructured data  
+
+### Cloud Platforms  
+- **AWS**: S3, Glue, Redshift, Lambda, EMR, Athena  
+- **Azure**: Data Factory, Synapse Analytics, Blob Storage, Functions  
+
+### Other Tools  
+- **Version Control**: Git, GitHub Actions  
+- **Workflow Automation**: Apache Airflow, CI/CD pipelines  
+- **Containerization**: Docker  
+
+---
+
+## 📂 **Featured Projects**
+Here are some of the projects I've worked on:  
+
+### 🔗 [Project Name 1](https://github.com/your-profile/project-1)  
+- **Description**: Built a real-time data processing pipeline with **Apache Spark** to process and transform streaming data from IoT sensors.  
+- **Tech Stack**: Spark, Kafka, AWS Lambda, S3, Redshift  
+
+### 🔗 [Project Name 2](https://github.com/your-profile/project-2)  
+- **Description**: Designed and implemented a **Hadoop-based data lake** to store and analyze terabytes of clickstream data.  
+- **Tech Stack**: HDFS, Hive, Python, Airflow  
+
+### 🔗 [Project Name 3](https://github.com/your-profile/project-3)  
+- **Description**: Automated ETL pipeline using **Azure Data Factory** to extract data from multiple sources, transform it, and load it into **Synapse Analytics** for reporting.  
+- **Tech Stack**: Azure Data Factory, Azure Functions, SQL  
+
+---
+
+## 🌱 **What I'm Learning**
+- Deepening my knowledge of **cloud-native data engineering** tools like AWS Glue, Azure Synapse, and Databricks  
+- Exploring **ML Ops** to bridge the gap between data engineering and machine learning  
+
+---
+
+## 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💬 **Connect With Me**
+Feel free to reach out!  
+- 📧 **Email**: your.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🌐 [Portfolio/Blog](https://yourwebsite.com)
+
+---
+
+### ⚡ Fun Fact:  
+I believe every dataset tells a story—let’s build the pipeline to tell it!  
