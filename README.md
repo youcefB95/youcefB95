@@ -25,7 +25,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Engineer+Intern+@Blent.ai+👨🏻‍💻;AI+Developer+🤖;Web+Developer+💻)](https://git.io/typing-svg)
 
   ![Profile views](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
-  [![GitHub followers](https://img.shields.io/github/followers/Hamagistral.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Hamagistral?tab=followers)
+  [![GitHub followers](https://img.shields.io/github/followers/youcefB95.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/youcefB95?tab=followers)
 </div>
 
 
@@ -73,21 +73,18 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=ffffff&labelColor=FF6F00)
 ![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala&logoColor=ffffff&labelColor=DC322F)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&logoColor=ffffff&labelColor=276DC3)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=3776AB)
 
 ##### 💾 Databases : 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=316192)
 ![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
-![PlanetScale](https://img.shields.io/badge/planetscale-000000?style=flat&logo=planetscale&logoColor=000000&labelColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=Snowflake&logoColor=white&labelColor=29B5E8)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff&labelColor=47A248)
 
 ##### 🤖 Data & ML : 
 
 ![Scikitlearn](https://img.shields.io/badge/Scikitlearn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=white&labelColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=Keras&logoColor=white&labelColor=D00000)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
@@ -97,14 +94,9 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript&logoColor=ffffff&labelColor=3178C6)
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=ffffff&labelColor=06B6D4)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=ffffff&labelColor=000000)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ffffff&labelColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=ffffff&labelColor=339933)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=ffffff&labelColor=009688)
-![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff&labelColor=000000)
 ![Fastapi](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=ffffff&labelColor=009688)
 
 ##### ☁️ Cloud : 
