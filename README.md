@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <div id="header" align="center">
-    <img src="https://github.com/youcefB95/youcefB95/blob/main/guy-chill-sky.jpg" width="50%" />
+    <img src="https://github.com/youcefB95/youcefB95/blob/main/astronaut-chill.png" width="30%"  />
   </div>
   <br>
   <div id="badges">
@@ -17,14 +17,14 @@
     </a>
   </div>
 
-  <br>
+
 
 
   <br>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Engineer+👨🏻‍💻;AI+Developer+🤖;Web+Developer+💻)](https://git.io/typing-svg)
 
-  ![Profile views](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
+  ![Profile views](https://komarev.com/ghpvc/?username=youcefB95&style=plastic&color=blue)
   [![GitHub followers](https://img.shields.io/github/followers/youcefB95.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/youcefB95?tab=followers)
 </div>
 
